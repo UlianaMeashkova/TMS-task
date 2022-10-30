@@ -57,7 +57,7 @@ print(id(a))
 print(id(b))
 print(id(c))
 
-# 4 task
+# 4 task Uliana
 
 D = int(input("Введите произвольную строку: "))
 
