@@ -66,12 +66,3 @@ print(id(c))
 #         print (str(i) + ' =четное')
 #     else:
 #         print (str(i) + ' =четное')
-
-
-
-
-
-
-
-
-
